@@ -1,0 +1,23 @@
+
+header {
+    font-weight: bold;
+    font-size: 200%;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    background-color: black;
+    align-items: center;
+}
+
+
+.navlinks {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+
+
+}
+.navbar li {
+    justify-content: space-around
+}
+
